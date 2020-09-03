@@ -42,3 +42,12 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+/* I started in the same order given in ##acceptance criteria
+- I changed all div tags into semantic elements
+- Logic flows - css was edited to take advantage 
+- alt= tags were added to all images as well as alt="" to decorations
+- <h> are in sequence
+- title was optimized 
+- CSS was re-written to function with semantic changes; with minimal use of class= * most class tags can be removed from html now 
+*/
